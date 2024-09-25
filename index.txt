@@ -1,0 +1,5 @@
+# This is a simple text file
+
+and this is just for git pracitce
+
+Hello Git !!
